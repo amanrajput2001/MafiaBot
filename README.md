@@ -32,7 +32,6 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 ### The Easy Way
 
-<h4>⚜️ DEPLOY TO HEROKU ⚜️<
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amanrajput2001/MafiaBot)
 
 
